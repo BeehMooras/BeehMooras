@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @BeehMooras
 - 👀 I’m interested in programar
-- 🌱 I’m currently learning  javaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning  javaScript, HTML and CSS.
+- 💞️ I want to collaborate on FrontEnd projects
+- 📫 How to reach me:
+- Instagram:[@beeh_moorassutti](https://www.instagram.com/beeh_moorassutti/)
+- Linkedin:[Anderson Morassuti](https://www.linkedin.com/in/anderson-morassuti-a70953236/)
+- Portfolio:
 
 <!---
 BeehMooras/BeehMooras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
